@@ -4,6 +4,8 @@
 
 [AutoDock](https://anaconda.org/bioconda/autodock-vina)
 
+[mgltools](https://anaconda.org/bioconda/mgltools)
+
 [PyMol](https://anaconda.org/schrodinger/pymol)
 
 
