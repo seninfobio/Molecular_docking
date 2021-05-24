@@ -1,6 +1,6 @@
 # Molecular_docking
 
-#Tools installation
+# Tools installation #
 
 [AutoDock](https://anaconda.org/bioconda/autodock-vina)
 
@@ -22,7 +22,7 @@
 
 
 
-
+## References ###
 
 [In silico investigation and assessment of plausible Novel Tyrosinase 1 Inhibitory Peptides from Sesame Seeds](https://www.sciencedirect.com/science/article/pii/S0023643821007726#fig1)
 
