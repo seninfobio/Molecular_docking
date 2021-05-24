@@ -2,7 +2,9 @@
 
 #Tools installation
 
-[Anaconda](https://anaconda.org/bioconda/autodock-vina)
+[AutoDock](https://anaconda.org/bioconda/autodock-vina)
+
+[PyMol](https://anaconda.org/schrodinger/pymol)
 
 
 
