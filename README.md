@@ -1,5 +1,25 @@
 # Molecular_docking
 
+#Tools installation
+
+[Anaconda](https://anaconda.org/bioconda/autodock-vina)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [In silico investigation and assessment of plausible Novel Tyrosinase 1 Inhibitory Peptides from Sesame Seeds](https://www.sciencedirect.com/science/article/pii/S0023643821007726#fig1)
 
 [A systematic review on antioxidant and antiinflammatory activity of Sesame (Sesamum indicum L.) oil and further confirmation of antiinflammatory activity by chemical profiling and molecular docking](https://onlinelibrary.wiley.com/doi/10.1002/ptr.6428)
